@@ -1,0 +1,4 @@
+src/main/resources/application.properties
+src/main/resources/stocks.csv
+src/main/java/stock_management/cs_stock/interpreter/Dashboard.java
+src/main/java/stock_management/cs_stock/service/impl/StockService.java
